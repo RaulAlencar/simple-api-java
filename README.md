@@ -15,7 +15,7 @@ Conectado com Azure Devops
 docker compose up --build
 ```
 
-## Testes unitários 
+## Testes unitários (validaçao)
 
 ./mvnw test
 
